@@ -1,5 +1,5 @@
 # ai-trainer-evaluator-portfolio
-Portfolio samples demonstrating LLM response evaluation, fact-checking, AI output ranking, and annotation quality assurance.
+Portfolio  demonstrating LLM response evaluation, fact-checking, AI output ranking, and annotation quality assurance.
 # Data Quality Assurance 
 ## Project Overview
 This portfolio project demonstrates a structured approach to reviewing business data for accuracy, completeness, consistency, and potential errors.
