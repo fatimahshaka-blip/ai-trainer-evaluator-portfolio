@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Fatimah Shaka 
 
 **AI Trainer | Data & Video Annotator | QA Analyst | Business Analyst**
 
