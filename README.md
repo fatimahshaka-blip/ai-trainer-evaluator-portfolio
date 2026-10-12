@@ -1,41 +1,26 @@
-# ai-trainer-evaluator-portfolio
-Portfolio  demonstrating LLM response evaluation, fact-checking, AI output ranking, and annotation quality assurance.
-# Data Quality Assurance 
-## Project Overview
-This portfolio project demonstrates a structured approach to reviewing business data for accuracy, completeness, consistency, and potential errors.
+# Hi, I'm [Your Name] 👋
 
-## Project Objectives
-- Identify missing and duplicate records.
-- Check inconsistent formatting.
-- Validate information against defined rules.
-- Document errors and recommended corrections.
-- Summarize quality findings clearly.
+**AI Trainer | Data & Video Annotator | QA Analyst | Business Analyst**
 
-## Methodology
-1. Review the dataset and its required fields.
-2. Check records for missing or inconsistent values.
-3. Identify duplicates and potential data-entry errors.
-4. Record findings in an issue log.
-5. Prepare a summary of findings and suggested corrections.
+I help teams improve AI quality and product quality through careful
+evaluation, accurate labeling, and clear documentation.
 
-## Quality Checks
-- Completeness
-- Accuracy
-- Consistency
-- Duplicate detection
-- Format validation
+## What I do
+- **AI Training & Evaluation:** prompt writing, response ranking, fact-checking
+- **Data Annotation:** text, image, and video labeling with consistent guidelines
+- **Quality Assurance:** test cases, bug reports, test plans
+- **Business Analysis:** requirements, user stories, process mapping
 
-## Tools
-Excel or Google Sheets.
+## Portfolio
+- [AI Training Samples](link-to-repo)
+- [Data Annotation Project](link-to-repo)
+- [QA Testing Samples](link-to-repo)
+- [Business Analysis Documents](link-to-repo)
 
-## Deliverables
-- Dataset
-- Data quality checklist
-- Error and correction log
-- Quality review summary
+## Tools I use
+Label Studio · CVAT · Excel/Google Sheets · Jira (or similar) · draw.io · Markdown
 
-## Project Status
-Demonstration portfolio project. 
-
-## Skills Demonstrated
-Data validation, attention to detail, quality assurance, error identification, documentation, and process compliance.
+## Contact
+- LinkedIn: linkedin.com/in/fatimah-shaka/
+- Email: fatimahshaka@gmail.com
+- Open to remote work
